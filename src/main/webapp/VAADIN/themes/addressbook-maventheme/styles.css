@@ -1,0 +1,14 @@
+@import url(../reindeer/styles.css);
+
+.v-table {
+	margin-left: 250px;	
+	text-align: center;	
+}
+.addButton {
+	margin-left: 640px;
+	margin-top: 20px;
+}
+
+.v-view{
+	background-color: #9dd4ff;	
+}
